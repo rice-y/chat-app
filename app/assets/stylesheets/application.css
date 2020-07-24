@@ -14,5 +14,7 @@
  *= require_self
  */
 
- *{box-sizing: border-box;}
- /*全ての要素の適用するという意味*/
+ *{
+   box-sizing: border-box;
+  } 
+ 
